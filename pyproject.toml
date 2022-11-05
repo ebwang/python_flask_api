@@ -8,6 +8,10 @@ packages = [{include = "python_flask_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+flask = "^2.2.2"
+flask-basicauth = "^0.2.0"
+textblob = "^0.17.1"
+sklearn = "^0.0"
 
 
 [build-system]

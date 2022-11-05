@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [],
+		"sqltools.useNodeRuntime": true,
+		"liveServer.settings.multiRootWorkspaceName": "java-script-test"
+	}
+}
