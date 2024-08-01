@@ -2,7 +2,7 @@
 name = "python-flask-api"
 version = "0.1.0"
 description = ""
-authors = ["Eduardo <ewang@bionexo.com>"]
+authors = ["XXXX"]
 readme = "README.md"
 packages = [{include = "python_flask_api"}]
 
